@@ -2,7 +2,7 @@
 
 _This project was generated with [create-instantsearch-app](https://github.com/algolia/create-instantsearch-app) by [Algolia](https://algolia.com)._
 
-##Overview
+## Overview
 Used concerts dataset, provided by Algolia, and created React InstantSearch app to query dataset.
 Added Autocomplete, RefinedList, Pagination, and PoweredBy widgets.
 
@@ -12,7 +12,7 @@ Added Autocomplete, RefinedList, Pagination, and PoweredBy widgets.
 ~Pagination<p>
 ~PoweredBy<p>
 
-##Getting Started
+## Getting Started
 
 To run this project locally, install the dependencies and run the local server:
 
@@ -30,4 +30,3 @@ yarn start
 
 Open http://localhost:3000 to see your app.
 =======
-# InstantSearch

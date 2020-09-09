@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "42163c7e6caa2efb1fce",
+    "revision": "5b0a402e98308b61cfca",
     "url": "/InstantSearch/static/css/main.7c76e577.chunk.css"
   },
   {
-    "revision": "42163c7e6caa2efb1fce",
-    "url": "/InstantSearch/static/js/main.42163c7e.chunk.js"
+    "revision": "5b0a402e98308b61cfca",
+    "url": "/InstantSearch/static/js/main.5b0a402e.chunk.js"
   },
   {
     "revision": "253c5dc42a8e42100cce",
@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/InstantSearch/static/js/runtime~main.b07c669b.js"
   },
   {
-    "revision": "c776d8f2f9d425f486bdd30bca384f42",
+    "revision": "95697a6fdb7d39f4d94e7642ab174cd2",
     "url": "/InstantSearch/index.html"
   }
 ];

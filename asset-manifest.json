@@ -1,13 +1,13 @@
 {
   "main.css": "/InstantSearch/static/css/main.7c76e577.chunk.css",
-  "main.js": "/InstantSearch/static/js/main.42163c7e.chunk.js",
-  "main.js.map": "/InstantSearch/static/js/main.42163c7e.chunk.js.map",
+  "main.js": "/InstantSearch/static/js/main.5b0a402e.chunk.js",
+  "main.js.map": "/InstantSearch/static/js/main.5b0a402e.chunk.js.map",
   "static/js/1.253c5dc4.chunk.js": "/InstantSearch/static/js/1.253c5dc4.chunk.js",
   "static/js/1.253c5dc4.chunk.js.map": "/InstantSearch/static/js/1.253c5dc4.chunk.js.map",
   "runtime~main.js": "/InstantSearch/static/js/runtime~main.b07c669b.js",
   "runtime~main.js.map": "/InstantSearch/static/js/runtime~main.b07c669b.js.map",
   "static/css/main.7c76e577.chunk.css.map": "/InstantSearch/static/css/main.7c76e577.chunk.css.map",
   "index.html": "/InstantSearch/index.html",
-  "precache-manifest.ec0a5dffbe0a3c8f23ff1956f438125a.js": "/InstantSearch/precache-manifest.ec0a5dffbe0a3c8f23ff1956f438125a.js",
+  "precache-manifest.41eb2adc6887a1987f63bc73f80667bc.js": "/InstantSearch/precache-manifest.41eb2adc6887a1987f63bc73f80667bc.js",
   "service-worker.js": "/InstantSearch/service-worker.js"
 }

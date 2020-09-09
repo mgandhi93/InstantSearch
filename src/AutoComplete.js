@@ -42,7 +42,7 @@ class AutoComplete extends Component {
   }
 
   renderSuggestion(hit) {
-    return <Highlight attribute="name" hit={hit} tagName="mark" />;
+    return <Highlight attribute="name" hit={hit} />;
   }
 
   render() {

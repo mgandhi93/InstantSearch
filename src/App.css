@@ -1,7 +1,7 @@
-/*em {*/
-/*  background: cyan;*/
-/*  font-style: normal;*/
-/*}*/
+em {
+  background: cyan;
+  font-style: normal;
+}
 
 .header {
   display: flex;
@@ -54,9 +54,9 @@
   flex: 3;
 }
 
-.searchbox {
-  margin-bottom: 2rem;
-}
+/*.searchbox {*/
+/*  margin-bottom: 2rem;*/
+/*}*/
 
 .pagination {
   margin: 2rem auto;
@@ -71,10 +71,9 @@
 body { font-family: "Malgun Gothic"; padding: 1em; }
 /*.ais-SearchBox { margin: 1em 0; }*/
 /*.ais-Pagination { margin-top: 1em }*/
-.left-panel {
-  float: left; width: 200px;
-}
+
 .right-panel { margin-left: 260px; }
+
 .hit-name {
   margin-top: 0.5rem;
   font-weight: bolder;
@@ -101,7 +100,7 @@ body { font-family: "Malgun Gothic"; padding: 1em; }
   width: 100%;
   box-sizing: border-box;
   padding: 20px 20px;
-  font-family: Helvetica, sans-serif;
+  font-family: "Malgun Gothic", sans-serif;
   font-weight: 300;
   font-size: 16px;
   border: 1px solid #aaa;
@@ -128,7 +127,7 @@ body { font-family: "Malgun Gothic"; padding: 1em; }
   width: 100%;
   border: 1px solid #aaa;
   background-color: #fff;
-  font-family: Helvetica, sans-serif;
+  font-family: "Malgun Gothic", sans-serif;
   font-weight: 300;
   font-size: 16px;
   border-bottom-left-radius: 4px;

@@ -76,7 +76,7 @@ class App extends Component {
                 showMore={true}
               />
 
-              <Configure hitsPerPage={20} />
+              <Configure hitsPerPage={25} />
             </div>
             <VirtalSearchBox defaultRefinement={query} />
             <Hits hitComponent={Hit} />

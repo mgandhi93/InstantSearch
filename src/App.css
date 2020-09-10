@@ -1,7 +1,7 @@
-em {
-  background: cyan;
-  font-style: normal;
-}
+/*em {*/
+/*  background: cyan;*/
+/*  font-style: normal;*/
+/*}*/
 
 .header {
   display: flex;
@@ -54,9 +54,9 @@ em {
   flex: 3;
 }
 
-/*.searchbox {*/
-/*  margin-bottom: 2rem;*/
-/*}*/
+.searchbox {
+  margin-bottom: 2rem;
+}
 
 .pagination {
   margin: 2rem auto;
@@ -71,9 +71,10 @@ em {
 body { font-family: "Malgun Gothic"; padding: 1em; }
 /*.ais-SearchBox { margin: 1em 0; }*/
 /*.ais-Pagination { margin-top: 1em }*/
-
-.right-panel { margin-left: 260px; }
-
+/*.left-panel {*/
+/*  float: left; width: 200px;*/
+/*}*/
+/*.right-panel { margin-left: 260px; }*/
 .hit-name {
   margin-top: 0.5rem;
   font-weight: bolder;
@@ -82,12 +83,12 @@ body { font-family: "Malgun Gothic"; padding: 1em; }
 .hit-location {
   margin-top: 0.5em;
   margin-bottom: 0.5em;
-  font-size:smaller;
+  font-size:larger;
   font-weight: lighter;
 }
 .hit-date {
   margin-bottom: 0.5em;
-  font-size: smaller;
+  font-size: larger;
   font-weight: lighter;
 }
 
@@ -100,7 +101,7 @@ body { font-family: "Malgun Gothic"; padding: 1em; }
   width: 100%;
   box-sizing: border-box;
   padding: 20px 20px;
-  font-family: "Malgun Gothic", sans-serif;
+  font-family: Helvetica, sans-serif;
   font-weight: 300;
   font-size: 16px;
   border: 1px solid #aaa;
@@ -127,7 +128,7 @@ body { font-family: "Malgun Gothic"; padding: 1em; }
   width: 100%;
   border: 1px solid #aaa;
   background-color: #fff;
-  font-family: "Malgun Gothic", sans-serif;
+  font-family: Helvetica, sans-serif;
   font-weight: 300;
   font-size: 16px;
   border-bottom-left-radius: 4px;

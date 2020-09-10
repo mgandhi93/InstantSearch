@@ -59,7 +59,6 @@ class App extends Component {
         </header>
         <div className="container">
           <InstantSearch indexName="concerts" searchClient={searchClient}>
-            <Configure hitsPerPage={25} />
             <Autocomplete
               onSuggestionSelected={this.onSuggestionSelected}
               onSuggestionCleared={this.onSuggestionCleared}
@@ -76,7 +75,7 @@ class App extends Component {
                 showMore={true}
               />
 
-              <Configure hitsPerPage={25} />
+              <Configure hitsPerPage={20} />
             </div>
             <VirtalSearchBox defaultRefinement={query} />
             <Hits hitComponent={Hit} />

@@ -17,10 +17,11 @@ I have very little frontend experience, and no React experience so it took some 
 widget, but the documentation was very helpful in solving those problems.</p>
 <p>I overall enjoyed the project, and it gave me a great chance to gain familiarity with Algolia's InstantSearch product and how to integrate it into an app.</p>
 
-<p>Added Autocomplete, RefinementList, Pagination, and PoweredBy widgets.</p>
-
 ## Widgets Used
-~Autocomplete<p>
-~RefinementList<p>
-~Pagination<p>
-~PoweredBy<p>
+<ul>
+    <li>Autocomplete</li>
+    <li>RefinementList</li>
+    <li>Pagination</li>
+    <li>PoweredBy</li>
+    <li>CurrentRefinements</li>
+    <li>ClearRefinements</li>
